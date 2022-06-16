@@ -6,3 +6,5 @@
 - 🔭 I’m currently working on [SocialChat]()  
 - 🌱 I’m currently learning **IT at the Chataigneraie**  
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=XloxTV&show_icons=true&locale=en&theme=radical" alt="XloxTV" /></p>
+
