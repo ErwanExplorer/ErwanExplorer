@@ -9,6 +9,6 @@
 
 ### My skills 😛
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=XloxTV&show_icons=true&locale=en&theme=radical" alt="XloxTV" /></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XloxTV&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=XloxTV&show_icons=true&locale=en&theme=radical" alt="XloxTV" /></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XloxTV&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="XloxTV" /></p><br/>
 
