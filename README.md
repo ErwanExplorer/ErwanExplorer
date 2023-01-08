@@ -16,10 +16,18 @@
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 #### Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ! ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+#### Others
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### My skills 😛
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=XloxTV&show_icons=true&locale=en&theme=radical" alt="XloxTV" /></p><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XloxTV&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="XloxTV" /></p><br/>
+
+Last update on Sat Jan 08 2023
+
+
 
