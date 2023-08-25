@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erwan 👋</h1>  
 <h3 align="center">I'm Programer</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xloxtv" alt="xloxtv" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErwanExplorer" alt="ErwanExplorer" /> </p>  
 
 - 🔭I'm learning about [TypeScript](https://www.typescriptlang.org/)  
 - 🌱 I’m currently learning **IT at the Chataigneraie**  
@@ -55,7 +55,7 @@
   
   
   
-Last update on Sat Jan 28 2023
+Last update on Fri Aug 28 2023
 
 
 
