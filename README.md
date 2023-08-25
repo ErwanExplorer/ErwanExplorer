@@ -5,7 +5,7 @@
 
 - 🔭I'm learning about [TypeScript](https://www.typescriptlang.org/)  
 - 🌱 I’m currently learning **IT at the Chataigneraie**  
-- 🔗 This is my PortFolio on [PortFolio](https://xloxtv.github.io/PortFolio/)
+- 🔗 This is my PortFolio on [PortFolio](https://erwan.tech)
 
 ### Contact me
 
@@ -16,8 +16,8 @@
 
 ### My skills 😛
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=XloxTV&show_icons=true&locale=en&theme=radical" alt="XloxTV" /></p><br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XloxTV&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="XloxTV" /></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ErwanExplorer&show_icons=true&locale=en&theme=radical" alt="ErwanExplorer" /></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwanExplorer&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="ErwanExplorer" /></p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
