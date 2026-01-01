@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hey, I'm Erwan 👋</h1>  
-<h3 align="center">💻 Gen Z Dev | 🌌 Space & AI Enthusiast | 📍 France</h3>  
+<h1 align="center">🚀 Hey, I'm Erwan 👋</h1>
+<h3 align="center">💻 Gen Z Developer | 🤖 AI Builder | 🌌 Space & Future Enthusiast | 📍 France</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ErwanExplorer&style=flat-square&color=blueviolet" alt="Profile views" />
@@ -8,25 +8,34 @@
 ---
 
 ## 🌟 About Me
-- 🔭 **Currently learning**: [TypeScript](https://www.typescriptlang.org/) & Next.js  
-- 📚 **Studying**: IT @ Campus La Chataigneraie  
-- 🌌 Passionate about **space, astronomy & AI**  
-- 🛸 Dreaming about **colonizing Proxima b** one day  
-- 🎯 Always improving & chasing futuristic goals  
+- 🎓 **IT student (BTS SIO)** @ Campus La Châtaigneraie  
+- 🧠 Founder of **NeoSiriusAI**, building AI-first projects  
+- 🤖 Focused on **AI, Web Dev & automation**  
+- 🌌 Passionate about **space, astronomy & futurism**  
+- 🛸 Long-term vision: **interstellar exploration & Proxima b concepts**  
+- 🎯 Mindset: *Become better than yesterday, every day*
+
+---
+
+## 🧪 Current Projects
+- 🌍 **NeoTravelAI**  
+  AI-powered travel assistant focused on smart planning and inspiration  
+
+- 🧟 **YouWalkingDead**  
+  Experimental project blending AI, storytelling and immersive concepts  
 
 ---
 
 ## 📞 Contact Me
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/erwantv_)  
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19610581/erwantv)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ESagnardon)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4a3xxsmvm6)  
+[![Twitter / X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/ESagnardon)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwan-sagnardon)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/erwan.codes)  
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,java,react,nextjs,tailwind,symfony,rust,bootstrap,linux,mysql,postgres,git,github,sass,babel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,java,react,nextjs,tailwind,nodejs,symfony,mongodb,mysql,postgres,linux,git,github,sass&theme=dark" />
 </p>
 
 ---
@@ -40,15 +49,18 @@
 ---
 
 ## 📅 Now
-- 💻 Working on cool AI & Web Dev experiments  
-- 🛰 Exploring space-related tech ideas  
-- 🎵 Playing with AI-generated music just for fun  
-
-## 🎯 Future Goals
-- 🌍 Do my Erasmus internship in **Estonia or Sweden**  
-- 🚀 Work on real **space exploration projects**  
-- 🪐 Contribute to **interstellar colonization concepts**  
+- 💻 Building **AI-powered web projects**  
+- 🧠 Leveling up in **TypeScript, Next.js & AI**  
+- 🌌 Exploring future-focused tech ideas  
 
 ---
 
-<p align="center">✨ Last update: Aug 2025 ✨</p>
+## 🎯 Future Goals
+- 🌍 Erasmus internship in **Estonia or Sweden**  
+- 🤖 Scale **NeoSiriusAI** & side projects  
+- 🚀 Work on **space & interstellar concepts**  
+- 🪐 Turn futuristic ideas into real products  
+
+---
+
+<p align="center">✨ Last update: Jan 2026 ✨</p>
