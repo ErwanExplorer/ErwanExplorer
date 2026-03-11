@@ -89,11 +89,11 @@ Fast, immersive, and ultra-realistic results.
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ErwanExplorer&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=erwancodes&show_icons=true&hide_border=true"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwanExplorer&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwancodes&layout=compact&hide_border=true"
     height="160"
   />
 </p>
