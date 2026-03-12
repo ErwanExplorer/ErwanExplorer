@@ -3,7 +3,7 @@
 # Erwan Sagnardon
 **BTS SIO Student | AI Builder | Space & Future Enthusiast**
 
-📍 Le Mesnil-Esnard, Normandie, France
+📍 Rouen, France
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.erwancodes.me) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ESagnardon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwan-sagnardon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erwan.codes)
 
@@ -21,6 +21,14 @@
 | 2 | **[StagePilot](https://www.stagepilot.app)** | Internship search CRM for students. Organize, track and optimize applications. |
 | 3 | **[SoftlyUp](https://softlyup.app)** | Photo-free dating app. Based on passions and human connection. |
 | 4 | **[Feels](https://feels.softlyup.app)** | AI-powered messaging coach. Decode intentions and reply with confidence. |
+
+## 🕐 Recent Activity
+
+| Project | Description | Last Push |
+|---------|-------------|-----------|
+| **[StagePilot](https://www.stagepilot.app)** | Internship search CRM for students | `Mar 12, 2026` |
+| **[OpenFlux](https://github.com/erwancodes/OpenFlux)** | RSS tech watch aggregator | `Mar 12, 2026` |
+| **[ReactLearning](https://github.com/erwancodes/ReactLeaning)** | React learning playground | `Mar 12, 2026` |
 
 ## 🛠️ Stack
 
