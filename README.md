@@ -9,7 +9,7 @@
 
 ---
 
-![Repos](https://img.shields.io/badge/Student-BTS_SIO_SLAM-6366F1?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-AI_%26_Web-8B5CF6?style=flat-square) ![Mindset](https://img.shields.io/badge/Mindset-Kaizen-EC4899?style=flat-square) ![Vision](https://img.shields.io/badge/Vision-2030_Roadmap-0EA5E9?style=flat-square)
+![Student](https://img.shields.io/badge/Student-BTS_SIO_SLAM-6366F1?style=flat-square) ![Stars](https://img.shields.io/github/stars/erwancodes?style=flat-square&color=yellow&label=Stars) ![Forks](https://img.shields.io/badge/dynamic/json?style=flat-square&color=green&label=Forks&query=$.forks&url=https://api.github.com/users/erwancodes) ![Followers](https://img.shields.io/github/followers/erwancodes?style=flat-square&color=red&label=Followers)
 
 </div>
 
@@ -17,8 +17,8 @@
 
 | | Project | Description | 
 |---|---------|-------------|
-| 1 | **[OpenFlux](https://github.com/erwancodes/OpenFlux)** | RSS tech watch aggregator. Built with Astro, auto-updated daily via GitHub Actions. |
-| 2 | **[StagePilot](https://www.stagepilot.app)** | Internship search CRM for students. Organize, track and optimize applications. |
+| 1 | **[StagePilot](https://www.stagepilot.app)** | Internship search CRM for students. Organize, track and optimize applications. |
+| 2 | **[OpenFlux](https://github.com/erwancodes/OpenFlux)** | RSS tech watch aggregator. Built with Astro, auto-updated daily via GitHub Actions. |
 | 3 | **[SoftlyUp](https://softlyup.app)** | Photo-free dating app. Based on passions and human connection. |
 | 4 | **[Feels](https://feels.softlyup.app)** | AI-powered messaging coach. Decode intentions and reply with confidence. |
 
