@@ -15,7 +15,7 @@
 
 ## 🏆 Top Projects
 
-| | Project | Description | 
+| | Project | Description |
 |---|---------|-------------|
 | 1 | **[StagePilot](https://www.stagepilot.app)** | Internship search CRM for students. Organize, track and optimize applications. |
 | 2 | **[OpenFlux](https://github.com/erwancodes/OpenFlux)** | RSS tech watch aggregator. Built with Astro, auto-updated daily via GitHub Actions. |
@@ -26,6 +26,7 @@
 
 | Project | Description | Last Push |
 |---------|-------------|-----------|
+| **[AlgoTrainer](https://algotrainer.erwancodes.me)** | BTS SIO E22 algo trainer — official subjects, Python editor, auto-correction | `Apr 25, 2026` |
 | **[StagePilot](https://www.stagepilot.app)** | Internship search CRM for students | `Mar 12, 2026` |
 | **[OpenFlux](https://github.com/erwancodes/OpenFlux)** | RSS tech watch aggregator | `Mar 12, 2026` |
 | **[ReactLearning](https://github.com/erwancodes/ReactLeaning)** | React learning playground | `Mar 12, 2026` |
@@ -40,6 +41,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white" alt="Convex" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
@@ -59,5 +61,5 @@
 ---
 
 <p align="center">
-  <sub>✨ Last updated: Mar 2026 · <a href="https://www.erwancodes.me">erwancodes.me</a></sub>
+  <sub>✨ Last updated: Apr 2026 · <a href="https://www.erwancodes.me">erwancodes.me</a></sub>
 </p>
