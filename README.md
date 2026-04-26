@@ -1,10 +1,15 @@
 <div align="center">
+
 # Erwan Codes
 **BTS SIO Student | AI Builder | Space & Future Enthusiast**
 📍 Rouen, France
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.erwancodes.me) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ESagnardon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwan-sagnardon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erwan.codes)
+
 ---
+
 ![Student](https://img.shields.io/badge/Student-BTS_SIO_SLAM-6366F1?style=flat-square) ![Stars](https://img.shields.io/github/stars/erwancodes?style=flat-square&color=yellow&label=Stars) ![Forks](https://img.shields.io/badge/dynamic/json?style=flat-square&color=green&label=Forks&query=$.forks&url=https://api.github.com/users/erwancodes) ![Followers](https://img.shields.io/github/followers/erwancodes?style=flat-square&color=red&label=Followers)
+
 </div>
 
 ## 🕐 Recent Activity
@@ -38,17 +43,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=erwancodes&show_icons=true&hide_border=true&theme=tokyonight"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwancodes&layout=compact&hide_border=true&theme=tokyonight"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=erwancodes&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwancodes&layout=compact&hide_border=true&theme=tokyonight" height="160" />
 </p>
 
 ---
+
 <p align="center">
   <sub>✨ Last updated: Apr 2026 · <a href="https://www.erwancodes.me">erwancodes.me</a></sub>
 </p>
